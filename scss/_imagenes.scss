@@ -1,0 +1,42 @@
+
+/*LOGOS*/
+.logoPral {
+	text-align: center;
+}
+.logoChico {
+	text-align: center;
+}
+/*IMG PRODUCTOS*/
+.img {
+	display: inline;
+	width: 90%;
+	height: auto;
+	text-align: center;
+	margin-top: 10px;
+}
+.imgDos {
+	display: inline;
+	width: 70%;
+	height: auto;
+	text-align: center;
+	margin-top: 10px;
+}
+/*LOGO WSP*/
+.mensajeWsp {
+	position: fixed;
+	bottom: 35px;
+	right: 15px;
+}
+/*CAROUSEL*/
+.carousel {
+	width: 97%;
+	margin: auto;
+	transition-duration: 2s;
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+
+.img-fluid {
+	width: 100%;
+	height: auto;
+}

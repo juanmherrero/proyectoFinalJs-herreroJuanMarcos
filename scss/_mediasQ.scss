@@ -1,0 +1,22 @@
+/*MEDIAS QUERIES*/
+@media (max-width:606px) {
+	.mapa {
+		display: none;
+	}
+}
+@media (max-width:767px) {
+	.img {
+		width: 50%;
+	}
+	.imgDos {
+		width: 60%;
+	}
+	.tab {
+		display: none;
+	}
+}
+@media (min-width:768px) {
+	.mob {
+		display: none;
+	}
+}

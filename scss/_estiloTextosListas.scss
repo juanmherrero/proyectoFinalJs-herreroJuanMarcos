@@ -1,0 +1,50 @@
+/*ESTILOS BÁSICOS*/
+h1 {
+	text-align: center;
+	font-family: $fuente;
+	font-size: 2rem;
+}
+h2 {
+	text-align: center;
+	font-family: $fuente;
+	font-size: 2rem;
+}
+h3 {
+	text-align: center;
+	font-family: $fuente;
+	font-size: 1rem;
+}
+.titulo {
+	padding-top: 15px;
+}
+p {
+	font-family: $fuente;
+	padding: 5px 20px 20px;
+}
+ul {
+	list-style-type: none;
+	font-family: $fuente;
+}
+/*LISTA FAQS*/
+.listPunt {
+	list-style-type: circle;
+}
+ol {
+	font-family: $fuente;
+}
+a {
+	text-decoration: none;
+	font-family: $fuente;
+	&:link {
+		color: black;
+	}
+	&:visited {
+		color: black;
+	}
+}
+.textoLista {
+	margin: 35px;
+}
+fieldset {
+	border: none;
+}

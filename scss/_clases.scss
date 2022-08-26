@@ -1,0 +1,64 @@
+.disclaimer {
+	display: none;
+}
+/*NAV BUSCAR*/
+.buscar {
+	text-align: right;
+}
+/*NEWSLETTER*/
+.newsletter {
+	background-color: $colorC;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	margin-top: 45px;
+}
+/*PRODUCTOS Y GÉNEROS*/
+.gen {
+	text-align: center;
+}
+.texto {
+	text-align: center;
+	margin-top: 15px;
+	display: inline;
+}
+.divCate {
+	padding-top: 60px;
+}
+/*PRODUCTOS INDEX*/
+.prod {
+	text-align: center;
+}
+.textoDos {
+	text-align: center;
+	display: inline;
+	margin-top: 15px;
+}
+.divProd {
+	padding-bottom: 20px;
+}
+/*SECCIONES SOBRE NOSOTROS*/
+.busLocal {
+	padding: 0 20% 0 20%;
+}
+.local {
+	text-align: center;
+}
+.mapa {
+	padding-bottom: 15px;
+}
+/*BOTON INICIO CONTACTO*/
+.inicioContacto {
+	text-align: center;
+	padding-bottom: 15px;
+}
+/*SECCION FAQS*/
+.seccionUno {
+	text-align: justify;
+	padding-top: 30px;
+}
+
+
+.row {
+	margin: 0;
+}

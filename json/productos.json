@@ -1,0 +1,11 @@
+[
+    { "titulo": "Esquíes Fischer Rc4 The Curv Ti", "precio": 250000, "detalle": "Carrera - Pista" , "dataId": 1 , "img": "../img/fischer1.png"},
+    { "titulo": "Esquies Fischer XTR RC One 73 RT + RS 10 GW", "precio": 200000, "detalle": "Pista" , "dataId": 2 , "img": "../img/fischer2.png"},
+    { "titulo": "Snowboard Burton Ripcord", "precio": 220000, "detalle": "Pista" , "dataId": 3 , "img": "../img/burton1.png"},
+    { "titulo": "Snowboard Burton Custom Camber", "precio": 290000, "detalle": "Fuera de Pista - Pista" , "dataId": 4 , "img": "../img/burton2.png"},
+    { "titulo": "Botas Fischer RC One 100 Vacuum Walk", "precio": 150000, "detalle": "Esquí" , "dataId": 5 , "img": "../img/botSki.png"},
+    { "titulo": "Botas Salomon Launch", "precio": 135000, "detalle": "Snowboard" , "dataId": 6 , "img": "../img/botSnow.png"},
+    { "titulo": "Skateboard Element Tecuala", "precio": 25000, "detalle": "Con trucks" , "dataId": 7 , "img": "../img/tabSk81.png"},
+    { "titulo": "Skateboard Element Solar Vibes", "precio": 35000, "detalle": "Con trucks" , "dataId": 8 , "img": "../img/tabSk82.png"},
+    { "titulo": "Zapatillas skateboard Vans Old Skool Pro", "precio": 15000, "detalle": "Vans" , "dataId": 9 , "img": "../img/shoes.png"}
+]

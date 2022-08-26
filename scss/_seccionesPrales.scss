@@ -1,0 +1,23 @@
+footer {
+	font-family: $fuente;
+	background-color: $colorC;
+	color: white;
+}
+header {
+	font-family: $fuente;
+	top: 0px;
+	background-color: $colorC;
+	color: white;
+	padding-bottom: 25px;
+}
+main {
+	background-color: $colorA;
+}
+.derechos {
+	text-align: center;
+	padding: 15px 0 25px 0;
+}
+.botDiv {
+	background-color: $colorB;
+	padding: 20px;
+}
